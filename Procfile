@@ -1,1 +1,1 @@
-Procfileworker: python main.py
+Procfileworker: python bot-ios.py
