@@ -59,8 +59,8 @@ except ImportError:
             print("Failed to install requests with pip and pip:", str(e))
             exit(0)
 import json
-API_ID = '8186557'
-API_HASH = '7245de8e747a0d6fbe11f7cc14fcc0bb'
+API_ID = '17670872'
+API_HASH = '8e9cf457875a30370309108a1dbff553'
 bot_token = ""
 running_processes = {}
 try:
